@@ -1,0 +1,5 @@
+useful links
+
+visulisation:
+
+https://www.kaggle.com/kennethrithvik/plotting-with-python-learn-80-plots-step-by-step
